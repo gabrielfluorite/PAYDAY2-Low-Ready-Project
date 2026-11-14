@@ -3,10 +3,10 @@
 ## **// Gallery**
 
 <img width="960" height="540" alt="PAYDAY 2 Screenshot 2026 11 11 - 21 30 25 44" src="https://github.com/user-attachments/assets/425ad88c-9944-44f1-adef-9aadda84526f" />
-<img width="480" height="270" alt="PAYDAY 2 Screenshot 2026 11 11 - 21 34 21 18" src="https://github.com/user-attachments/assets/20279277-f75d-494c-ba51-a50b49f462fc" />
-<img width="480" height="270" alt="PAYDAY 2 Screenshot 2026 11 11 - 21 34 19 33" src="https://github.com/user-attachments/assets/0b29dbb9-41a9-4f29-a8ba-c9dcdc73f8c5" />
-<img width="480" height="270" alt="PAYDAY 2 Screenshot 2026 11 12 - 07 34 53 84" src="https://github.com/user-attachments/assets/c983ccbb-d1fa-4e4c-99b1-331c35177ab8" />
-<img width="480" height="270" alt="PAYDAY 2 Screenshot 2026 11 12 - 07 34 56 54" src="https://github.com/user-attachments/assets/f8a58b49-46bd-46a1-bff5-1bfe548b1938" />
+<img width="256" height="144" alt="PAYDAY 2 Screenshot 2026 11 11 - 21 34 21 18" src="https://github.com/user-attachments/assets/20279277-f75d-494c-ba51-a50b49f462fc" />
+<img width="256" height="144" alt="PAYDAY 2 Screenshot 2026 11 11 - 21 34 19 33" src="https://github.com/user-attachments/assets/0b29dbb9-41a9-4f29-a8ba-c9dcdc73f8c5" />
+<img width="256" height="144" alt="PAYDAY 2 Screenshot 2026 11 12 - 07 34 53 84" src="https://github.com/user-attachments/assets/c983ccbb-d1fa-4e4c-99b1-331c35177ab8" />
+<img width="256" height="144" alt="PAYDAY 2 Screenshot 2026 11 12 - 07 34 56 54" src="https://github.com/user-attachments/assets/f8a58b49-46bd-46a1-bff5-1bfe548b1938" />
 
 ## **// Description**
 
