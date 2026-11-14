@@ -11,7 +11,9 @@
 ## **// Description**
 
 **Low Ready Project** is heavily inspired in **Arena Breakout Infinite** and **Ready or Not** style of gameplay. **Inspired**, not 100% copied.
+
 Movement speeds are now slower. Sprint head bobbing is reduced. Camera lean mechanic is fully implemented.
+
 Values of speed, head bobbing and lean keybinds are all customizable.
 
 ## **// Installation Instructions**
